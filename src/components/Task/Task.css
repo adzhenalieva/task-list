@@ -1,0 +1,15 @@
+.Task {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #fec10e;
+    border-radius: 5px;
+}
+
+.Bold{
+    font-weight: bold;
+}
+
+.Text {
+    font-style: italic;
+    font-size: 16px;
+}
